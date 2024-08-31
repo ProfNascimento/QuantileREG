@@ -1,0 +1,3 @@
+## Supplementary Background
+
+We recover the importance of transport travel apps in the logistic dynamics and financial development of an economy. In order to do so, we chose a city from South America that represents the continental problem of explosive growth and unplanned infrastructure leading to a challenge of people displacement. Subsection \ref{subsec:socioeconomic} explains the socioeconomic data of Fortaleza, and the reason why it is an important city in the northeast of Brazil; then, subsection \ref{subsec:related} concerns about the chosen location related to its transport travel dynamics and pricing.
