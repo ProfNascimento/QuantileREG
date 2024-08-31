@@ -1,6 +1,6 @@
 # QuantileREG
 
-This repository relates to the research which quantify the efficiency of a transportation start-up (UberX) in Fortaleza towards discussing socioeconomic inequality and logistic transportation cost in the north of Brazil (as a study case). Nine thousand travel records were obtained during two weeks, between August-September of 2021.
+This repository relates to the research that quantifies the efficiency of a transportation start-up (UberX) in Fortaleza towards discussing socioeconomic inequality and logistic transportation costs in the north of Brazil (as a study case). Nine thousand travel records were obtained during two weeks, between August-September of 2021.
 
 ![Alt text](https://github.com/ProfNascimento/QuantileREG/blob/main/MAP.png "Fortaleza’s geolocation, followed by the number of jobs around the city in 2019 (used as a reference) and its density draw in red intensity.")
 
