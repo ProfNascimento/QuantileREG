@@ -1,4 +1,4 @@
-# QuantileREG
+# Quantile REGRESSION (Modeling Data beyond their average pattern)
 
 This repository relates to the research that quantifies the efficiency of a transportation start-up (UberX) in Fortaleza towards discussing socioeconomic inequality and logistic transportation costs in the north of Brazil (as a study case). The [script.R] contains all R code developed in this study, and the main dataset [FOR_trips.csv] the FORTALEZA UberX trips simulation. Nine thousand travel records were obtained during two weeks, between August-September of 2021. The figure below shows as black diagonal dots the 15 fixed locations chosen to simulate the transport pricing among poor-medium-rich neighborhood displacement, and in red intensity the number of jobs around the city in 2019.
 
